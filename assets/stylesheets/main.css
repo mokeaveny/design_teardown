@@ -1,6 +1,7 @@
 .header_section {
 	border: 1px solid black;
 	height: 125px;
+	background-color: #484848;
 }
 
 .recommended_articles {
@@ -16,16 +17,19 @@
 
 #article1 {
 	flex: 1;
+	background-color: #585858;
 }
 
 #article2 {
 	flex: 1;
 	flex-direction: column;
 	align-items: center;
+	background-color: #484848;
 }
 
 #article3 {
 	flex: 1;
+	background-color: #585858;
 }
 
 #recommended_articles_title {
@@ -33,6 +37,7 @@
 	border: 1px solid black;
 	width: 500px;
 	height: 75px;
+	background-color: #404040;
 }
 
 #recommended_articles_title2 {
@@ -40,6 +45,7 @@
 	border-top: transparent;
 	width: 200px;
 	height: 75px;
+	background-color: #404040;
 }
 
 .minor_recommended_articles_section {
@@ -58,10 +64,16 @@
 	height: 700px;
 	margin-bottom: 100px;
 	margin-right: 30px;
+	background-color: #707070;
 }
 
 #members_features_box {
 	width: 920px;
+	background-color: #404040;
+}
+
+#advertised_article {
+	background-color: #404040;
 }
 
 .latest_articles_strip {
@@ -72,6 +84,7 @@
 .pre-release_book_promo {
 	border: 1px solid black;
 	height: 1100px;
+	background-color: #404040;
 }
 
 .person_week_section {
@@ -87,6 +100,7 @@
 	border: 1px solid black;
 	height: 400px;
 	width: 100%;
+	background-color: #707070
 }
 
 .person_week_comment {
@@ -94,11 +108,13 @@
 	height: 200px;
 	width: 45%;
 	margin-right: 2.5%;
+	background-color: #707070
 }
 
 .featured_book_section {
 	border: 1px solid black;
 	height: 400px;
+	background-color: #404040;
 }
 
 .guides_section {
@@ -113,6 +129,7 @@
 	border: 1px solid black;
 	height: 80%;
 	flex: 1;
+	background-color: #787878;
 }
 
 .newsletter_section {
@@ -120,6 +137,7 @@
 	margin-left: 150px;
 	margin-right: 150px;
 	height: 1000px;
+	background-color: #404040;
 }
 
 .blank_more_articles_section {
@@ -130,4 +148,5 @@
 .footer_section {
 	border: 1px solid black;
 	height: 725px;
+	background-color: #404040;
 }
