@@ -73,4 +73,61 @@
 	border: 1px solid black;
 	height: 1100px;
 }
+
+.person_week_section {
+	border: 1px solid black;
+	height: 1900px;
+	display: flex;
+	margin-left: 150px;
+	margin-right: 150px;
+	flex-wrap: wrap;
+}
+
+.person_week_article {
+	border: 1px solid black;
+	height: 400px;
+	width: 100%;
+}
+
+.person_week_comment {
+	border: 1px solid black;
+	height: 200px;
+	width: 45%;
+	margin-right: 2.5%;
+}
+
+.featured_book_section {
+	border: 1px solid black;
+	height: 400px;
+}
+
+.guides_section {
+	border: 1px solid black;
+	height: 1000px;
+	margin-left: 150px;
+	margin-right: 150px;
+	display: flex;
+}
+
+.guide {
+	border: 1px solid black;
+	height: 80%;
+	flex: 1;
+}
+
+.newsletter_section {
+	border: 1px solid black;
+	margin-left: 150px;
+	margin-right: 150px;
+	height: 1000px;
+}
+
+.blank_more_articles_section {
+	border: 1px solid black;
+	height: 400px;
+}
+
+.footer_section {
+	border: 1px solid black;
+	height: 725px;
 }
